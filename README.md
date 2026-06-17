@@ -1,4 +1,4 @@
-<h1 align="center">jbonner8's Neovim Configuration</h1>
+<h1 align="center">jb8 nvim config</h1>
 
 <p align="center">
   <a href="#quick-start">Quick Start</a> •
